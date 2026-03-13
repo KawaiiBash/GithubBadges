@@ -1,4 +1,4 @@
-# 🏆 GitHub Achievement & Badge Codex
+# 🏆 GitHub Achievement & Badge
 
 Welcome to the definitive guide for leveling up your GitHub profile. This document tracks every unlockable honor, from community participation to legendary historical milestones.
 
