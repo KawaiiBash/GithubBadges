@@ -8,16 +8,16 @@ Welcome to the definitive guide for leveling up your GitHub profile. This docume
 These achievements are currently obtainable. Step up your contribution game to see these land on your profile sidebar.
 
 ### 🎖️ Community Achievements
-| Icon | Achievement | The Objective |
-| :---: | :--- | :--- |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60px;"> | **Pull Shark** | Successfully merge pull requests into any repository. |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60px;"> | **Galaxy Brain** | Provide the winning answer to a question in GitHub Discussions. |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60px;"> | **Starstruck** | Curate a project that the community loves (16+ Stars). |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60px;"> | **Pair Extraordinaire** | Share the credit—co-author a merged pull request. |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60px;"> | **Quickdraw** | The speedrun: Close an issue/PR within 5 min of creation. |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60px;"> | **YOLO** | Live dangerously: Merge a PR without a formal code review. |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="60px;"> | **Heart On Your Sleeve** | Spread positivity by reacting to a post with a ❤️. |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="60px;"> | **Open Sourcerer** | Become a nomad: Merge PRs across various public repos. |
+| Icon | Achievement | Objective | How To Get (Process) |
+| :---: | :--- | :--- | :--- |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60px;"> | **Pull Shark** | Successfully merge pull requests. | Merge **2 pull requests** into any public repository to unlock the base badge. |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60px;"> | **Galaxy Brain** | Answer a question in Discussions. | Have your answer marked as "Accepted" in **2 separate discussions**. |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60px;"> | **Starstruck** | Curate a project the community loves. | Create a repository that reaches a total of **16 stars**. |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60px;"> | **Pair Extraordinaire** | Share the credit with a co-author. | Be a co-author on **1 merged pull request** (use the `Co-authored-by:` trailer in the commit). |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60px;"> | **Quickdraw** | The speedrun contribution. | **Open an issue or PR and close it** (or have it merged) within 5 minutes. |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60px;"> | **YOLO** | Live dangerously. | Merge **1 pull request** that you created yourself without any peer reviews. |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="60px;"> | **Heart On Your Sleeve** | Spread positivity. | React to a comment, issue, or PR with the **❤️ emoji** on a public repository. |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="60px;"> | **Open Sourcerer** | Become a nomad contributor. | Have pull requests merged into **multiple different** public repositories. |
 
 ### 💎 Prestige Tiers
 Don't just earn the badge—rank it up. High-volume contributors unlock specialized borders.
